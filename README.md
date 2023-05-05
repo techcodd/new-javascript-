@@ -1,2 +1,2 @@
 # new-javascript-
-new jabascript
+new javascript
